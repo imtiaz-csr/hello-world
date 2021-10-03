@@ -17,7 +17,7 @@ Microsoft Visual Studio Enterprise 2019 Version 16.11.2
 <br />
 2.	Press Ctrl+F5 in keyboard or click 'Start' in the top of your Visual Studio menu-bar.
 <br />
-3.	Press the 'Enter' key in your keyboarf to exit the program. 
+3.	Press the 'Enter' key in your keyboard to exit the program. 
 <br />
 <br />
 
