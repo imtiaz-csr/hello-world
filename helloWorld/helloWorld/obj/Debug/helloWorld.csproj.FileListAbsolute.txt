@@ -5,3 +5,11 @@ G:\programming\Git\hello-world\helloWorld\helloWorld\obj\Debug\helloWorld.csproj
 G:\programming\Git\hello-world\helloWorld\helloWorld\obj\Debug\helloWorld.csproj.CoreCompileInputs.cache
 G:\programming\Git\hello-world\helloWorld\helloWorld\obj\Debug\helloWorld.exe
 G:\programming\Git\hello-world\helloWorld\helloWorld\obj\Debug\helloWorld.pdb
+F:\Projects\hello-world\helloWorld\helloWorld\bin\Debug\helloWorld.exe.config
+F:\Projects\hello-world\helloWorld\helloWorld\bin\Debug\helloWorld.exe
+F:\Projects\hello-world\helloWorld\helloWorld\bin\Debug\helloWorld.pdb
+F:\Projects\hello-world\helloWorld\helloWorld\obj\Debug\helloWorld.csproj.AssemblyReference.cache
+F:\Projects\hello-world\helloWorld\helloWorld\obj\Debug\helloWorld.csproj.SuggestedBindingRedirects.cache
+F:\Projects\hello-world\helloWorld\helloWorld\obj\Debug\helloWorld.csproj.CoreCompileInputs.cache
+F:\Projects\hello-world\helloWorld\helloWorld\obj\Debug\helloWorld.exe
+F:\Projects\hello-world\helloWorld\helloWorld\obj\Debug\helloWorld.pdb
